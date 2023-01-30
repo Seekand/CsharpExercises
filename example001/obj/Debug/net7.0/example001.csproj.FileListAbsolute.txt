@@ -1,0 +1,15 @@
+/home/daniel/estudos/csharp/examples/example001/bin/Debug/net7.0/example001
+/home/daniel/estudos/csharp/examples/example001/bin/Debug/net7.0/example001.deps.json
+/home/daniel/estudos/csharp/examples/example001/bin/Debug/net7.0/example001.runtimeconfig.json
+/home/daniel/estudos/csharp/examples/example001/bin/Debug/net7.0/example001.dll
+/home/daniel/estudos/csharp/examples/example001/bin/Debug/net7.0/example001.pdb
+/home/daniel/estudos/csharp/examples/example001/obj/Debug/net7.0/example001.csproj.AssemblyReference.cache
+/home/daniel/estudos/csharp/examples/example001/obj/Debug/net7.0/example001.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/estudos/csharp/examples/example001/obj/Debug/net7.0/example001.AssemblyInfoInputs.cache
+/home/daniel/estudos/csharp/examples/example001/obj/Debug/net7.0/example001.AssemblyInfo.cs
+/home/daniel/estudos/csharp/examples/example001/obj/Debug/net7.0/example001.csproj.CoreCompileInputs.cache
+/home/daniel/estudos/csharp/examples/example001/obj/Debug/net7.0/example001.dll
+/home/daniel/estudos/csharp/examples/example001/obj/Debug/net7.0/refint/example001.dll
+/home/daniel/estudos/csharp/examples/example001/obj/Debug/net7.0/example001.pdb
+/home/daniel/estudos/csharp/examples/example001/obj/Debug/net7.0/example001.genruntimeconfig.cache
+/home/daniel/estudos/csharp/examples/example001/obj/Debug/net7.0/ref/example001.dll
